@@ -1,4 +1,4 @@
-Coq-au-Vim
+Coq-au-Vim Forked on Github
 ==========
 
 Coq-au-Vim is a Vim plugin for working with the [Coq](https://coq.inria.fr/)
